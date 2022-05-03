@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\bin\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\bin\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\bin\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\obj\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\obj\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\obj\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\obj\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\obj\Debug\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.pdb

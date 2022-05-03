@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЦИКЛ DO WHILE", "ЦИК
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18  ЦИКЛ FOR", "18  ЦИКЛ FOR\18  ЦИКЛ FOR.csproj", "{0449ECCD-02AC-46B1-8129-CFE630E62494}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ", "19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.csproj", "{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0449ECCD-02AC-46B1-8129-CFE630E62494}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0449ECCD-02AC-46B1-8129-CFE630E62494}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0449ECCD-02AC-46B1-8129-CFE630E62494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
