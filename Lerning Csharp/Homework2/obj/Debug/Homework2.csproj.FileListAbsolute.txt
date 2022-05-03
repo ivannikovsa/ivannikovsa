@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\bin\Debug\Homework2.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\bin\Debug\Homework2.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\obj\Debug\Homework2.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\obj\Debug\Homework2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\obj\Debug\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\obj\Debug\Homework2.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\Homework2\obj\Debug\Homework2.pdb

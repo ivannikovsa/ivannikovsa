@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\bin\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\bin\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\bin\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\obj\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\obj\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\obj\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\obj\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\ОПЕРАЦИИ СРАВНЕНИЯ\obj\Debug\ОПЕРАЦИИ СРАВНЕНИЯ.pdb
