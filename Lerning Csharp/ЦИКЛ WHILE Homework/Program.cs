@@ -19,17 +19,27 @@ namespace ЦИКЛ_WHILE_Homework
             while (a > b)
                 Console.WriteLine("Начало диапазона меньше конца. Введите новые данные");
             
-            int chet = 0;
-            int nechet = 0;
+            uint chet = 0;
+            uint nechet = 0;
+            int sum_chet = 0;
+            int sum_ne_chet = 0;
             while (a<=b)
             {
-                if (a%2==0)
+                if (a % 2 == 0)
+                {
                     chet++;
+                    sum_chet += a;
+                }
+
                 else
+                {
                     nechet++;
+                    sum_ne_chet += a;
+                }
                 a++;
             }
             Console.WriteLine("Количество чётных чисел: "+chet+". Количество нечётных чисел: " + nechet+".");
+            Console.WriteLine("Сумма чётных чисел: " + sum_chet + ". Сумма нечётных чисел: " + sum_ne_chet + ".");
             Console.ReadLine();
         }
     }

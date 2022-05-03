@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\bin\Debug\ЦИКЛ WHILE Homework.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\bin\Debug\ЦИКЛ WHILE Homework.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\bin\Debug\ЦИКЛ WHILE Homework.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\obj\Debug\Homework 4 ЦИКЛ WHILE.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\obj\Debug\Homework 4 ЦИКЛ WHILE.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\obj\Debug\Homework 4 ЦИКЛ WHILE.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\obj\Debug\ЦИКЛ WHILE Homework.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\ЦИКЛ WHILE Homework\obj\Debug\ЦИКЛ WHILE Homework.pdb

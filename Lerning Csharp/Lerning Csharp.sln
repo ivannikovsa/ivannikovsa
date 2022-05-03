@@ -21,9 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework calculator", "Home
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЦИКЛ WHILE", "ЦИКЛ WHILE\ЦИКЛ WHILE.csproj", "{A056651B-6021-4E96-8740-F3BF135C41B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЦИКЛ WHILE Homework", "ЦИКЛ WHILE Homework\ЦИКЛ WHILE Homework.csproj", "{A0F1FEE7-05D0-4AF1-A4B0-6F15BD0EA410}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 4 ЦИКЛ WHILE", "ЦИКЛ WHILE Homework\Homework 4 ЦИКЛ WHILE.csproj", "{A0F1FEE7-05D0-4AF1-A4B0-6F15BD0EA410}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ЦИКЛ DO WHILE", "ЦИКЛ DO WHILE\ЦИКЛ DO WHILE.csproj", "{891EE3B8-6E46-4B37-BAD3-367FC87BB87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18  ЦИКЛ FOR", "18  ЦИКЛ FOR\18  ЦИКЛ FOR.csproj", "{0449ECCD-02AC-46B1-8129-CFE630E62494}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{891EE3B8-6E46-4B37-BAD3-367FC87BB87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{891EE3B8-6E46-4B37-BAD3-367FC87BB87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{891EE3B8-6E46-4B37-BAD3-367FC87BB87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0449ECCD-02AC-46B1-8129-CFE630E62494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0449ECCD-02AC-46B1-8129-CFE630E62494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0449ECCD-02AC-46B1-8129-CFE630E62494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0449ECCD-02AC-46B1-8129-CFE630E62494}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
