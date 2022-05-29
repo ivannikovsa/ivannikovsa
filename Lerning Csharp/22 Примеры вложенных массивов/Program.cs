@@ -11,7 +11,7 @@ namespace _22_Примеры_вложенных_массивов
     {
         static void Main(string[] args)
         {
-            int scale = 10;
+            int scale = 20;
             string row;
             row = "";
             for (int i = 1; i <= scale; i++)

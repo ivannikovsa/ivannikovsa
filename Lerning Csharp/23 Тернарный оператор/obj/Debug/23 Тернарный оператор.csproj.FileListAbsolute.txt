@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\bin\Debug\23 Тернарный оператор.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\bin\Debug\23 Тернарный оператор.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\bin\Debug\23 Тернарный оператор.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\obj\Debug\23 Тернарный оператор.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\obj\Debug\23 Тернарный оператор.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\obj\Debug\23 Тернарный оператор.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\obj\Debug\23 Тернарный оператор.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\23 Тернарный оператор\obj\Debug\23 Тернарный оператор.pdb
