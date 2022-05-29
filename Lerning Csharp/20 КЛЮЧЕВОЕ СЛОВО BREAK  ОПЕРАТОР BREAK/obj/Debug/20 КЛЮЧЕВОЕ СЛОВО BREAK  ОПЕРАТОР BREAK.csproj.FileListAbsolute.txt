@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\bin\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\bin\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\bin\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.pdb

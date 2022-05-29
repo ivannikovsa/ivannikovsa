@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\bin\Debug\КЛЮЧЕВОЕ СЛОВО CONTINUE.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\bin\Debug\КЛЮЧЕВОЕ СЛОВО CONTINUE.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\bin\Debug\КЛЮЧЕВОЕ СЛОВО CONTINUE.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО CONTINUE.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО CONTINUE.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\obj\Debug\20 КЛЮЧЕВОЕ СЛОВО CONTINUE.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\obj\Debug\КЛЮЧЕВОЕ СЛОВО CONTINUE.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\КЛЮЧЕВОЕ СЛОВО CONTINUE\obj\Debug\КЛЮЧЕВОЕ СЛОВО CONTINUE.pdb

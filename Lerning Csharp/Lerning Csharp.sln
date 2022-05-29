@@ -29,6 +29,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18  ЦИКЛ FOR", "18  Ц�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ", "19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ\19 ЦИКЛ FOR  В ОБРАТНОМ ПОРЯДКЕ.csproj", "{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK", "20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK\20 КЛЮЧЕВОЕ СЛОВО BREAK  ОПЕРАТОР BREAK.csproj", "{D7C7C4E0-D0E6-4EE5-8D86-BD14005079B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 КЛЮЧЕВОЕ СЛОВО CONTINUE", "КЛЮЧЕВОЕ СЛОВО CONTINUE\20 КЛЮЧЕВОЕ СЛОВО CONTINUE.csproj", "{0C13EC63-A085-4C93-99E0-66C3376B7936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 ВЛОЖЕННЫЕ ЦИКЛЫ", "22 ВЛОЖЕННЫЕ ЦИКЛЫ\22 ВЛОЖЕННЫЕ ЦИКЛЫ.csproj", "{D0CDED3A-29C1-42EA-AA8D-6636BE227480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{4011B037-6ADE-4E42-9DCA-87B8FEE1B7E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 ДЗ треугольники", "22 Примеры вложенных массивов\22 ДЗ треугольники.csproj", "{A9E42771-3072-4AB0-97A0-DDF6C7EB7EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +97,26 @@ Global
 		{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFCE60E9-9782-4215-AFB9-CDDF9FC3FC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C7C4E0-D0E6-4EE5-8D86-BD14005079B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C7C4E0-D0E6-4EE5-8D86-BD14005079B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C7C4E0-D0E6-4EE5-8D86-BD14005079B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C7C4E0-D0E6-4EE5-8D86-BD14005079B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C13EC63-A085-4C93-99E0-66C3376B7936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C13EC63-A085-4C93-99E0-66C3376B7936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C13EC63-A085-4C93-99E0-66C3376B7936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C13EC63-A085-4C93-99E0-66C3376B7936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CDED3A-29C1-42EA-AA8D-6636BE227480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CDED3A-29C1-42EA-AA8D-6636BE227480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CDED3A-29C1-42EA-AA8D-6636BE227480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CDED3A-29C1-42EA-AA8D-6636BE227480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4011B037-6ADE-4E42-9DCA-87B8FEE1B7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4011B037-6ADE-4E42-9DCA-87B8FEE1B7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4011B037-6ADE-4E42-9DCA-87B8FEE1B7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4011B037-6ADE-4E42-9DCA-87B8FEE1B7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E42771-3072-4AB0-97A0-DDF6C7EB7EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E42771-3072-4AB0-97A0-DDF6C7EB7EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E42771-3072-4AB0-97A0-DDF6C7EB7EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E42771-3072-4AB0-97A0-DDF6C7EB7EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
