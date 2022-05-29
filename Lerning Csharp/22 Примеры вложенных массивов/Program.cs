@@ -11,7 +11,7 @@ namespace _22_Примеры_вложенных_массивов
     {
         static void Main(string[] args)
         {
-            int scale = 3;
+            int scale = 10;
             string row;
             row = "";
             for (int i = 1; i <= scale; i++)
@@ -34,9 +34,23 @@ namespace _22_Примеры_вложенных_массивов
                 row = "";
                 for (int j = scale-i; j > 0; j--)
                 {
-                    row = row + "_";
+                    row = row + " ";
                 }
                 for (int k = 1; k <= i; k++)
+                {
+                    row = row + "#";
+                }
+                Console.WriteLine(row);
+            }
+            Console.WriteLine();
+            for (int i = 0; i <= scale; i++)
+            {
+                row = "";
+                for (int j = i; j > 0; j--)
+                {
+                    row = row + " ";
+                }
+                for (int j = 1; j <= scale-i; j++)
                 {
                     row = row + "#";
                 }
