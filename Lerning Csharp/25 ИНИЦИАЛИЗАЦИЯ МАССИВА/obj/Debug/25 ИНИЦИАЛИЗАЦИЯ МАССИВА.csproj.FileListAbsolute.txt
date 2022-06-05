@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\bin\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\bin\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\bin\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\obj\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\obj\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\obj\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\obj\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\25 ИНИЦИАЛИЗАЦИЯ МАССИВА\obj\Debug\25 ИНИЦИАЛИЗАЦИЯ МАССИВА.pdb

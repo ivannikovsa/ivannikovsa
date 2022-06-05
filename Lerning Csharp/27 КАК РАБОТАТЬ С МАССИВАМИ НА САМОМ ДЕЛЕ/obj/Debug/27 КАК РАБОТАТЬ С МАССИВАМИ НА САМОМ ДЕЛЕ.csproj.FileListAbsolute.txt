@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\bin\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\bin\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\bin\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\obj\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\obj\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\obj\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\obj\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ\obj\Debug\27 КАК РАБОТАТЬ С МАССИВАМИ НА САМОМ ДЕЛЕ.pdb

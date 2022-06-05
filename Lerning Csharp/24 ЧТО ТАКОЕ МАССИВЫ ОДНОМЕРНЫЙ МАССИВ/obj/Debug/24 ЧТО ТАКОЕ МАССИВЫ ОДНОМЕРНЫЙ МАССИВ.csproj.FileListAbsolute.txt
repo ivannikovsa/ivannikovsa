@@ -1,0 +1,8 @@
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\bin\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.exe.config
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\bin\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\bin\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.pdb
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\obj\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.csproj.AssemblyReference.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\obj\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.csproj.SuggestedBindingRedirects.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\obj\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.csproj.CoreCompileInputs.cache
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\obj\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.exe
+C:\Users\sergei.ivannikov\Source\Repos\ivannikovsa\ivannikovsa\Lerning Csharp\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ\obj\Debug\24 ЧТО ТАКОЕ МАССИВЫ ОДНОМЕРНЫЙ МАССИВ.pdb
